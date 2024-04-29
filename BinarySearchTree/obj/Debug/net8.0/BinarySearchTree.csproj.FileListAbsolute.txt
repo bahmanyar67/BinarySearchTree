@@ -1,0 +1,14 @@
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree.deps.json
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree.runtimeconfig.json
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree.dll
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/bin/Debug/net8.0/BinarySearchTree.pdb
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.AssemblyInfoInputs.cache
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.AssemblyInfo.cs
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.csproj.CoreCompileInputs.cache
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.dll
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/refint/BinarySearchTree.dll
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.pdb
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/BinarySearchTree.genruntimeconfig.cache
+/Users/shahlabahmanyar/Projects/BinarySearchTree/BinarySearchTree/obj/Debug/net8.0/ref/BinarySearchTree.dll
